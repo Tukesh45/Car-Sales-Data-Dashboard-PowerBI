@@ -19,10 +19,10 @@ Key features include year-to-date (YTD) and month-to-date (MTD) performance metr
 4. Dealer-wise Sales Performance: Highlights sales distribution across dealer regions.
 5. Company-wise Sales Breakdown: Displays sales figures, average prices, and cars sold for each brand (e.g., Ford, Audi, BMW, etc.).
 # Detailed Insights
-- A tabular report displaying individual transactions with fields like:
-Car ID
-Sale Date
-Customer Name
-Dealer Name
-Car Make/Model
-Sale Price
+-- A tabular report displaying individual transactions with fields like:
+- Car ID
+- Sale Date
+- Customer Name
+- Dealer Name
+- Car Make/Model
+- Sale Price
